@@ -17,13 +17,14 @@ remote_theme: raviriley/agency-jekyll-theme
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title: Sprawny Brzdąc
-email: your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author: Marcin Pawlak
-# logo:     #optional, defaults to site title
-# path: assets\img\clients\creative-market.jpg
-# height: 60 #height in px, defaults to 52px
+title: "Sprawny Brzdąc"
+email: abaranowski92@gmail.com #this is also the email contact forms will go to
+description: "SprawnyBrzdąc - profesjonalne treningi dzieci i młodzieży"
+keywords: "SprawnyBrzdąc, sport, zabawa, trening, wychowanie w sporcie"
+author: SprawnyBrzdąc
+logo: #optional, defaults to site title
+  path: assets\img\logo_transparent.png
+  #height: 60 #height in px, defaults to 52px
 
 locale: "pl-PL" # See available languages in _data/sitetext.yml
 
@@ -41,3 +42,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
