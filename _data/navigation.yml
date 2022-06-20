@@ -11,12 +11,12 @@
 # -------
 pl: &DEFAULT_PL
   nav:
-    - title: "Usługi"
-      section: services
+    - title: "O Nas"
+      section: about
+    - title: "Oferta"
+      section: offers
     - title: "Portfolio"
       section: portfolio
-    - title: "Katalog"
-      section: catalog
     - title: "Zespół"
       section: team
     - title: "Kontakt"
@@ -28,12 +28,12 @@ pl-PL:
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
+    - title: "About"
+      section: about
+    - title: "Offers"
+      section: offers
     - title: "Portfolio"
       section: portfolio
-    - title: "Catalog"
-      section: catalog
     - title: "Team"
       section: team
     - title: "Contact"

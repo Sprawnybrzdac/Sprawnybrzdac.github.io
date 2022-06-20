@@ -12,76 +12,61 @@
 pl: &DEFAULT_PL
   header:
     title:
-    text: Nowy widok Twoich możliwości
+    text: Akademia na miarę Twoich oczekiwań
     button: Poznaj Nas
-    buttonlink: "#services"
+    buttonlink: "#about"
 
-  services:
-    title: "Usługi"
+  about:
+    title: "O Nas"
     text:
-    section: services
+    section: about
     list:
-      - title: "Okna"
-        desc: "PCV, ALU, drewno"
+      - title: "Doświadczona kadra trenerska"
+        desc: ""
         icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
-      - title: "Rolety"
-        desc: "Natynkowe, nadstawne i podtynkowe"
-        icon: fa-solid fa-align-justify
-      - title: "Drzwi"
-        desc: "zewnętrzne: stalowe, aluminiowe pcv i wewnętrzne "
-        icon: fa-solid fa-door-closed
-      - title: "Parapety"
-        desc: "zewnętrzne i wewnętrzne"
-        icon: fa-solid fa-laptop
-      - title: "Bramy segmentowe"
-        desc:
-        icon: fa-solid fa-torii-gate
-      - title: "Roletki ozdobne do okien i inne"
-        desc:
-        icon: fa-solid fa-map
-      - title: "Moskitiery"
-        desc:
-        icon: fa-solid fa-chess-board
-      - title: "Montaż"
-        desc:
-        icon: fa-solid fa-hammer
+
+      - title: "Radość i Zabawa"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+
+      - title: "Wychowanie w sporcie"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+
+      - title: "Kształtowanie koordynacji ruchowej"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+
+      - title: "Współpraca w grupie"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+
+      - title: "Rywalizacja w duchu Fair Play"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+
+  offers:
+    title: "Oferta"
+    text:
+    section: offers
+    list:
+      - title: "Darmowy zajęcia pokazowe"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+
+      - title: "Trening indywidualny"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+
+      - title: "Zajęcia dla grup przedszkolnych"
+        desc: ""
+        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
-
-  catalog:
-    title: "Katalog"
-    text: "Lorem ipsum timeline"
-    section: catalog
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
 
   clients:
     section: clients
@@ -103,8 +88,8 @@ pl: &DEFAULT_PL
 
   team:
     title: "Nasz zespół"
-    text: "Nasza praktyka i doświadczenie pozwalają na przedstawienie Państwu całego zakresu naszej działalności, mając na uwadze wysoką jakość oferowanych towarów i usług w dogodnych dla Klienta terminach, jak również obniżając koszty do niezbędnego minimum."
-    subtext: Firma PHUR Bogdan Nowak powstała w 1990 roku. W pierwszym okresie działalności firma funkcjonowała jedynie w branży remontowej. W 2011 roku postanowiono rozszerzyć swoją działalność o stolarkę otworową. W swojej historii możemy pochwalić się wieloma ciekawymi realizacjami począwszy od obiektów handlowych a skończywszy na budownictwie indywidualnym.
+    text: "Nasza praktyka i doświadczenie pozwalają na przedstawienie Państwu całego zakresu naszej działalności, mając na uwadze wysoką jakość i kwalifiakcję kadry trenerskiej."
+    subtext:
     section: team
     people:
       - name: "Marcin Pawlak"
@@ -156,12 +141,12 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
-  services:
-    title: "Services"
+  offers:
+    title: "Offers"
     text: "Lorem ipsum"
-    section: services
+    section: offers
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
