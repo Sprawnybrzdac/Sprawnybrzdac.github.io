@@ -1,0 +1,8 @@
+{
+  "name": "sprawnybrzdac",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "bundle exec jekyll serve --watch"
+  },
+  "private": true
+}
