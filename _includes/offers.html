@@ -13,14 +13,19 @@
 	  
       <div class="row text-center">
 	  {% for offer in site.data.sitetext[site.locale].offers.list %}
+        <!-- CARD -->
         <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="{{ offer.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
-          </span>
-          <h4 class="offer-heading">{{ offer.title | markdownify }}</h4>
-          {% if offer.desc %}<div class="text-muted">{{ offer.desc | markdownify }}</div>{% endif %}
+          <div class="card" style="background-image:  url(assets/img/img-01.jpg);">
+            <div class="card-content">
+              <h4 class="card-title">{{ offer.title | markdownify }}</h4>
+              <p class="card-body">
+                {{ offer.desc | markdownify }}
+              </p>
+              <a href="#" class="button">Learn Mode</a>
+            </div>
+          </div>  
         </div>
+
 	  {% endfor %}
       </div>
 	  
