@@ -98,7 +98,7 @@ pl: &DEFAULT_PL
         social:
           - url: https://facebook.com
             icon: fab fa-facebook-f
-      - name: "Damina Woliński"
+      - name: "Damian Woliński"
         role: "Trener"
         image: assets/img/team/500x500.jpg
         social:
