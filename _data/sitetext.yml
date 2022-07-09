@@ -52,11 +52,11 @@ pl: &DEFAULT_PL
     list:
       - title: "Darmowe zajęcia pokazowe"
         desc: ""
-        photo: ""
+        photo: "assets/img/kindergarten/free.jpg"
 
       - title: "Treningi indywidualne"
         desc: ""
-        photo: ""
+        photo: "assets/img/kindergarten/individual.jpg"
 
       - title: "Zajęcia dla grup przedszkolnych"
         desc: ""
