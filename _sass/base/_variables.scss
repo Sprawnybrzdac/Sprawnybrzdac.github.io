@@ -10,7 +10,6 @@ $gray-600: #868e96 !default;
 $gray-700: #484a49 !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
-
-// $clr-black-100: hsl(0 0% 0% / 0);
-// $clr-black-400: hsl(20 0% 0% / 0.3) 20%;
-// $clr-black-900: hsl(0 0% 0% / 1);
+$clr-1: #{"hsl(0 0% 0% / 0)"} !default;
+$clr-2: #{"hsl(20 0% 0% / 0.3) 20%"} !default;
+$clr-3: #{"hsl(0 0% 0% / 1)"} !default;

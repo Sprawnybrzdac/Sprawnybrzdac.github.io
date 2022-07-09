@@ -10,25 +10,24 @@
 		  {% endif %}
         </div>
       </div>
-	  
-      <div class="row text-center">
+	 
+      <div class="row text-center"> 
 	  {% for offer in site.data.sitetext[site.locale].offers.list %}
         <!-- CARD -->
         <div class="col-md-4">
-          <div class="card" style="background-image:  url(assets/img/img-01.jpg);">
+          <div class="card" style="background-image:  url({{offer.photo}});">
             <div class="card-content">
               <h4 class="card-title">{{ offer.title | markdownify }}</h4>
               <p class="card-body">
                 {{ offer.desc | markdownify }}
               </p>
-              <a href="#" class="button">Learn Mode</a>
+              <a href="#" class="button">Zapytaj</a>
             </div>
           </div>  
-        </div>
+       </div>
 
 	  {% endfor %}
-      </div>
-	  
+	  </div>
     </div>
   </section>
 <!-- End Offers -->

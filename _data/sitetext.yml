@@ -52,15 +52,15 @@ pl: &DEFAULT_PL
     list:
       - title: "Darmowe zajęcia pokazowe"
         desc: ""
-        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+        photo: ""
 
       - title: "Treningi indywidualne"
         desc: ""
-        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+        photo: ""
 
       - title: "Zajęcia dla grup przedszkolnych"
         desc: ""
-        icon: fa-solid fa-border-all #find more at https://fontawesome.com/icons
+        photo: "assets/img/kindergarten/group.jpg"
 
   portfolio:
     title: "Portfolio"
