@@ -51,16 +51,16 @@ pl: &DEFAULT_PL
     section: offers
     list:
       - title: "Darmowe zajęcia pokazowe"
-        desc: "Pierwsze zajęcia w przedszkolu są darmowe. 
-Dysponujemy własnym sprzętem sportowym, który przywozimy każdorazowo na treningi."
+        desc: "Pierwsze zajęcia w przedszkolu są darmowe. Dysponujemy własnym sprzętem sportowym, który przywozimy każdorazowo na treningi."
         photo: "assets/img/kindergarten/IMG-20220624-WA0002.jpg"
 
       - title: "Treningi indywidualne"
-        desc: ""
+        desc: "Treningi trwają 60 minut i są prowadzone w małych grupach, od 1 do 4 osób. Skupiamy się na doskonaleniu konkretnych elementów."
         photo: "assets/img/individuals/IMG_20220616_085233.jpg"
 
       - title: "Zajęcia dla grup przedszkolnych"
-        desc: ""
+        desc: "Zajęcia ogólnorozwojowe są prowadzone, przez doświadczonych Trenerów, z dojazdem do przedszkola i urozmaiconym sprzętem treningowym. 
+Sesje treningowe trwają 30 minut."
         photo: "assets/img/kindergarten/IMG-20220624-WA0000.jpg"
 
   portfolio:
