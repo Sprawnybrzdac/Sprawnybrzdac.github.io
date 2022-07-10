@@ -51,16 +51,17 @@ pl: &DEFAULT_PL
     section: offers
     list:
       - title: "Darmowe zajęcia pokazowe"
-        desc: ""
-        photo: "assets/img/kindergarten/free.jpg"
+        desc: "Pierwsze zajęcia w przedszkolu są darmowe. 
+Dysponujemy własnym sprzętem sportowym, który przywozimy każdorazowo na treningi."
+        photo: "assets/img/kindergarten/IMG-20220624-WA0002.jpg"
 
       - title: "Treningi indywidualne"
         desc: ""
-        photo: "assets/img/kindergarten/individual.jpg"
+        photo: "assets/img/individuals/IMG_20220616_085233.jpg"
 
       - title: "Zajęcia dla grup przedszkolnych"
         desc: ""
-        photo: "assets/img/kindergarten/group.jpg"
+        photo: "assets/img/kindergarten/IMG-20220624-WA0000.jpg"
 
   portfolio:
     title: "Portfolio"
