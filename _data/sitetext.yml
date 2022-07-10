@@ -17,7 +17,7 @@ pl: &DEFAULT_PL
     buttonlink: "#about"
 
   about:
-    title: "O Nas"
+    title: "Co nas wyróżnia?"
     text:
     section: about
     list:

@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Tarnowo Podgórne
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/kindergarten/TarnowoPodgorne/IMG-20220624-WA0000.jpg
 ---
 

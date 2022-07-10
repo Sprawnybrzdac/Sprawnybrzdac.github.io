@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Plewiska
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/kindergarten/Plewiska/IMG-20220621-WA0000.jpg
 ---
 

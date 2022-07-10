@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Sady
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/kindergarten/Sady/IMG-20220707-WA0000.jpg
 ---
 

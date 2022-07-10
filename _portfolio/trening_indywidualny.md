@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Trening Indywidualny
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/individuals/IMG_20220616_084421.jpg
 ---
 

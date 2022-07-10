@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Lusowo
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/kindergarten/Lusowko/IMG-20220621-WA0047.jpg
 ---
 

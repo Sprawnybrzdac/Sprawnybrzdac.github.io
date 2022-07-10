@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Szamotuły
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/kindergarten/Szamotuly/IMG-20220629-WA0000.jpg
 ---
 

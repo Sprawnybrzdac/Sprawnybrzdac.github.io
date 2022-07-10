@@ -6,7 +6,7 @@ alt: Shirts on a hanger
 
 caption:
   title: Poznań
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/kindergarten/Poznan/IMG-20220623-WA0007.jpg
 ---
 
